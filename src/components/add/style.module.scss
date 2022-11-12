@@ -1,0 +1,30 @@
+.lis {
+  text-align: center;
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+  background-color: rgb(235, 70, 70);
+  // box-shadow: black 0px 5px 15px;
+  box-shadow: -8px -1px 74px 7px rgba(0, 0, 0, 0.74) inset;
+  -webkit-box-shadow: -8px -1px 74px 7px rgba(0, 0, 0, 0.74) inset;
+  -moz-box-shadow: -8px -1px 74px 7px rgba(0, 0, 0, 0.74) inset;
+  box-shadow: -8px -1px 74px 7px rgba(0, 0, 0, 0.74);
+  -webkit-box-shadow: -8px -1px 74px 7px rgba(0, 0, 0, 0.74);
+  -moz-box-shadow: -8px -1px 74px 7px rgba(0, 0, 0, 0.74);
+  flex-direction: column;
+  padding: 25px;
+  position: fixed;
+  display: flex;
+  margin: auto;
+  overflow: auto;
+  margin-left: 38%;
+  opacity: 0.9;
+  // padding: 24px;
+  // background-color: aliceblue;
+  // width: 700px;
+  // margin: auto;
+  // max-height: 90%;
+  // overflow: auto;
+  // border-radius: 16px;
+  // position: fixed;
+}
